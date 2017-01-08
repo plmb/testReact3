@@ -35,6 +35,7 @@
     "karma-webpack": "*",
     "mocha": "*",
     "node-sass": "*",
+    "node-uuid": "^1.4.7",
     "sass-loader": "*",
     "script-loader": "*",
     "style-loader": "*",
