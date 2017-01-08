@@ -1,0 +1,43 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "Simple react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start",
+    "start": "node server.js"
+  },
+  "author": "Timur",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "*",
+    "express": "*",
+    "react": "*",
+    "react-addons-test-utils": "*",
+    "react-dom": "*",
+    "react-router": "*"
+  },
+  "devDependencies": {
+    "babel-core": "^6.5.1",
+    "babel-loader": "^6.2.2",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "css-loader": "*",
+    "expect": "*",
+    "foundation-sites": "*",
+    "jquery": "^2.2.1",
+    "karma": "*",
+    "karma-chrome-launcher": "*",
+    "karma-mocha": "*",
+    "karma-mocha-reporter": "*",
+    "karma-sourcemap-loader": "*",
+    "karma-webpack": "*",
+    "mocha": "*",
+    "node-sass": "*",
+    "sass-loader": "*",
+    "script-loader": "*",
+    "style-loader": "*",
+    "webpack": "*"
+  }
+}
