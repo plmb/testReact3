@@ -38,6 +38,7 @@
     "moment": "^2.17.1",
     "node-sass": "*",
     "node-uuid": "^1.4.7",
+    "redux": "^3.6.0",
     "sass-loader": "*",
     "script-loader": "*",
     "style-loader": "*",

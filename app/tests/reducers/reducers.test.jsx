@@ -16,12 +16,12 @@ describe('Reducers', () => {
     });
   });
 
-  describe ('showComletedReducer', () => {
+  describe ('showCompletedReducer', () => {
     it('should toggle showCompleted', () => {
       var action = {
         type: 'TOGGLE_SHOW_COMPLETED',
       };
-      var res = reducers.showComletedReducer(df(false), df(action));
+      var res = reducers.showCompletedReducer(df(false), df(action));
 
       expect(res).toEqual(true);
     });
